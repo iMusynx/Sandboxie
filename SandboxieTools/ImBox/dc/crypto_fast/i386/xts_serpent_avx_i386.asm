@@ -1,4 +1,4 @@
-; this code compiled with Intel® C++ Compiler Version 12.0.0.063
+; this code compiled with IntelÂ® C++ Compiler Version 12.0.0.063
 ;
 ; Disassembly of file: xts_serpent_sse2.obj
 ; Thu May 19 19:04:44 2011
@@ -4019,4 +4019,3 @@ _xts_serpent_avx_available@0:; Function begin
 	pop	ebx					; 0036 _ 5B
 	ret						; 0037 _ C3
 ; _xts_serpent_avx_available@0 End of function
-

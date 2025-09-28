@@ -1,4 +1,4 @@
-; this code compiled with Intel® C++ Compiler Version 12.0.0.063
+; this code compiled with IntelÂ® C++ Compiler Version 12.0.0.063
 ;
 ; Disassembly of file: xts_serpent_sse2.obj
 ; Thu May 19 19:05:15 2011
@@ -3960,7 +3960,3 @@ xts_serpent_avx_available:; Function begin
 	pop	rbx					; 003F _ 5B
 	ret						; 0040 _ C3
 ; xts_serpent_avx_available End of function
-
-
-
-

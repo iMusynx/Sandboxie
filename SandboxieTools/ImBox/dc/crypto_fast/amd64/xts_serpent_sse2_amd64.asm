@@ -1,4 +1,4 @@
-; this code compiled with Intel® C++ Compiler Version 11.1.835.200
+; this code compiled with IntelÂ® C++ Compiler Version 11.1.835.200
 ;
 ; Disassembly of file: xts_serpent_sse2.obj
 ; Mon May 10 08:16:59 2010
@@ -4561,7 +4561,3 @@ xts_serpent_sse2_available:; Function begin
 	pop	rsi					; 5DDE _ 5E
 	ret						; 5DDF _ C3
 ; xts_serpent_sse2_available End of function
-
-
-
-

@@ -1,4 +1,4 @@
-; this code compiled with Intel® C++ Compiler Version 11.1.835.200
+; this code compiled with IntelÂ® C++ Compiler Version 11.1.835.200
 ;
 ; Disassembly of file: xts_serpent_sse2.obj
 ; Mon May 10 08:12:48 2010
@@ -4605,5 +4605,3 @@ _xts_serpent_sse2_available@0:; Function begin
 ;       db 8DH, 74H, 26H, 00H
 
 ALIGN	8
-
-
