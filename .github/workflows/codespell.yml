@@ -65,7 +65,7 @@ jobs:
             {
               echo "RESULT<<EOF"
               cat codespell.log
-              EOF
+              echo EOF
             } >> "$GITHUB_OUTPUT"
 
             
